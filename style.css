@@ -3,6 +3,11 @@ body {
   background-color: black;
 }
 
-h1 {
+h1, p {
   color: white;
+}
+
+img {
+  width: 60vw;
+  border: 5px solid white;
 }
